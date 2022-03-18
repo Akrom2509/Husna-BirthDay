@@ -220,12 +220,6 @@ const animationTimeline = () => {
       },
       "-=2"
     )
-    .from(".hat", 0.5, {
-      x: -100,
-      y: 350,
-      rotation: -180,
-      opacity: 0
-    })
     .staggerFrom(
       ".wish-hbd span",
       0.7,
@@ -282,6 +276,21 @@ const animationTimeline = () => {
       y: 30,
       zIndex: "-1"
     })
+    .to(".six-two", 0.5, {
+      opacity: 0,
+      y: 30,
+      zIndex: "-1"
+    })
+    .to(".six-three", 0.5, {
+      opacity: 0,
+      y: 30,
+      zIndex: "-1"
+    })
+    .to(".six-four", 0.5, {
+      opacity: 0,
+      y: 30,
+      zIndex: "-1"
+    })    
     .staggerFrom(".nine p", 1, ideaTextTrans, 1.2)
     .to(
       ".last-smile",
