@@ -1,5 +1,5 @@
 {
-  "greeting": "Hey ",
+  "greeting": "Hey",
   "name": "Husna",
   "greetingText": "I have something to show you!!!",
   "wishText": "May Allah bless you ...wishing you a very happy birthday",
@@ -12,12 +12,12 @@
   "text4": "I realised, I wanted to do something",
   "text4Adjective": "special",
   "text5Entry": "Because,",
-  "text5Content": "You are Special",
+  "text5Content": "You are My Special",
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "I love you so muchhhhhhhhhh",
-  "replayText": "You want know why I fall in love with this much? >> CLICK",
-  "outroSmiley": "click to see the reason"
+  "outroText": "Just wanted to tell you 'I love you so muchhhhhhhhhh'",
+  "replayText": "มีอะไรให้ดูอีกกก ...อยากรู้ไหมทำไมถึงรักขนาดนี้>> คลิ๊กตรงนี้สิ",
+  "outroSmiley": ":)"
 }

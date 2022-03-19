@@ -180,3 +180,13 @@ section h2 {
 #myBtn:hover {
   background-color: #555; /* Add a dark-grey background on hover */
 }
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.text-center {
+  text-align: center;
+}
